@@ -1,0 +1,176 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "BBC",
+      "title": "'There's a huge amount that we don't understand': Why sperm is still so mysterious - BBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPektuVkZrZTRMWnRMSHF0UGdvNGRrUXF6OWpjeXRtNHZwUHdBMTlwVk0wY3ZfZGNDRFFZQ2RpeWlLRk1POVQtZXl0ZTdLODc5clVfWHg4N0lzcmpLRVJuZVVwbjVYbXpFME1WQzYwczd3VXJOc29SeXVKWklNUjFSQjNndldoV1pfZnhTWGhpNUpIeEw5NG5vcWduWDdTLVBfZVBz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2025-06-14T09:01:50Z",
+      "content": null
+    },
+    {
+      "source": { "id": "buzzfeed", "name": "Buzzfeed" },
+      "author": "Jillian Wilson",
+      "title": "Most Women Ignore This Symptom As A Subtle Sign Of A Heart Attack, But It Could Be A Matter Of Life And Death - BuzzFeed",
+      "description": "Don't dismiss this issue, especially if you feel like something is off.",
+      "url": "https://www.buzzfeed.com/jillianwilson/one-subtle-sign-of-a-heart-attack-sc",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2024-02/7/21/enhanced/775017be85d7/original-1447-1707343053-16.jpg?crop=2999:2000;0,0&resize=1250:830",
+      "publishedAt": "2025-06-14T00:31:03Z",
+      "content": "In a recent segment on the Today show, Chantrise Holliman, a mother, wife and heart health educator based in Georgia, shared the story of her heart attack and what seemed like the fairly benign sympt… [+1575 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Eatingwell.com" },
+      "author": "https://www.facebook.com/EatingWell/",
+      "title": "4 Nutrients You Should Be Eating to Help Lower Dementia Risk, According to a New Study - EatingWell",
+      "description": "Find out what this study suggests regarding which nutrients may help reduce your risk of dementia, and what foods they're found in.",
+      "url": "https://www.eatingwell.com/nutrients-for-dementia-prevention-study-11754413",
+      "urlToImage": "https://www.eatingwell.com/thmb/nOFjUKiyICi-Tai3IYLt80yKCnA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/These5NutrientsMayHelpLowerYourDementiaRisk-642cc91d11e3412dab2b005ecab2eb12.gif",
+      "publishedAt": "2025-06-13T22:28:43Z",
+      "content": "As we age, its natural to become more forgetful. But when the occasional Where did I leave my keys? becomes forgetting loved ones names and your own address, it may be a sign of something more seriou… [+6319 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Denver Post" },
+      "author": "Meg Wingerter",
+      "title": "Boulder County resident exposed Flatiron Flyer passengers to measles - The Denver Post",
+      "description": "A Boulder County resident who recently traveled to Europe returned with measles, becoming the state’s 15th case this year.",
+      "url": "https://www.denverpost.com/2025/06/13/flatiron-flyer-measles-colorado-denver-boulder/",
+      "urlToImage": "https://www.denverpost.com/wp-content/uploads/2020/07/AP20205833111987.jpg?w=1024&h=690",
+      "publishedAt": "2025-06-13T22:25:01Z",
+      "content": "People who took the Regional Transportation District’s Flatiron Flyer between Boulder and Denver last week should watch for measles symptoms after a contagious Boulder County resident rode that route… [+2224 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Earth.com" },
+      "author": null,
+      "title": "The Y chromosome is disappearing, and this fact is already causing problems for men - Earth.com",
+      "description": "Two X chromosomes mean girl, and an X paired with a Y means boy. For the last 300 million years, this system has worked very well...until now",
+      "url": "https://www.earth.com/news/y-chromosome-is-disappearing-may-already-be-causing-problems-for-men/",
+      "urlToImage": "https://cff2.earth.com/uploads/2025/06/13145810/y-chromosome-disappearing_mens-health_x-chromosome_1m.jpg",
+      "publishedAt": "2025-06-13T21:55:56Z",
+      "content": "Flip open a high-school biology textbook, and the rule seems tidy: two X chromosomes mean girl, and an X paired with a Y means boy. That much smaller Y chromosome carries the SRY gene, which is the s… [+5919 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Neurosciencenews.com" },
+      "author": "Neuroscience News",
+      "title": "Different Autism Genes, Same Brain Signature - Neuroscience News",
+      "description": "New research shows that different genetic forms of autism may produce a shared brain activity pattern, revealing a potential common neural signature despite distinct genetic origins.",
+      "url": "https://neurosciencenews.com/asd-genetics-behavior-29271/",
+      "urlToImage": "https://neurosciencenews.com/files/2025/06/ASD-genetics-behavior-neuroscience.jpg",
+      "publishedAt": "2025-06-13T20:55:05Z",
+      "content": "Summary: New research shows that different genetic forms of autism may produce a shared brain activity pattern, revealing a potential common neural signature despite distinct genetic origins. Using b… [+4442 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "LADbible",
+      "title": "How viral 'limitless pill' affects the brain after doctors issue major warning over substance used by celebrities - LADbible",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdHpYZmFFQmNVSy02XzZnUmtkZHRLaDczMnlYaXJXYUZYc01tNHJlNXp2eDBvbkY4Z251M25KRWRCTWY5RFZDUmt3TkpRM1U2dFNMYnVUNU1zYUZoNWpLb0lWb1hwc0R1SW14OEx2M2J1TTdUY1B4dHpNWHkxT0lCOUZteWxBSVl5RzF3RHZjMzNOalFGR2YtUlNvM2lXQQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2025-06-13T20:01:22Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Kennedy’s HHS sent Congress ‘junk science’ to defend vaccine changes, experts say - CNN",
+      "description": "A document the Department of Health and Human Services sent to lawmakers to support Secretary Robert F. Kennedy Jr.’s decision to change U.S. policy on covid vaccines cites scientific studies that are unpublished or under dispute and mischaracterizes others.",
+      "url": "https://www.cnn.com/2025/06/13/health/kennedy-hhs-congress-vaccine-changes",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2210910482.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-06-13T19:40:00Z",
+      "content": "See all topics\r\nA document the Department of Health and Human Services sent to lawmakers to support Secretary Robert F. Kennedy Jr.s decision to change U.S. policy on covid vaccines cites scientific … [+7668 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Seattle Times" },
+      "author": "Elise Takahama",
+      "title": "WA whooping cough cases soar as vaccination rates drop - The Seattle Times",
+      "description": "The state Department of Health calls the rise \"staggering,\" and notes that it coincides with a drop in whooping cough vaccination rates among young children.",
+      "url": "https://www.seattletimes.com/seattle-news/health/wa-whooping-cough-cases-soar-as-vaccination-rates-drop/",
+      "urlToImage": "https://images.seattletimes.com/wp-content/uploads/2025/06/06132025_tzr_tzr_113724.jpg?d=1200x630",
+      "publishedAt": "2025-06-13T18:58:45Z",
+      "content": "Washington state reported 25 times as many whooping cough cases last year as the year before, according to new data that serve as a reminder of the disease’s continued surge here and nationwide.\r\nThe… [+2473 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "Jillian Frankel",
+      "title": "Father, 39, Has 1 Minor Symptom. Then He’s Given 2 Years to Live After 'Devastating' Diagnosis - AOL.com",
+      "description": "Andres Albaladejo and his wife Carmen had no idea the muscle spasms in his left arm would lead to a debilitating diagnosis",
+      "url": "https://people.com/florida-father-has-1-minor-symptom-before-he-s-given-2-years-to-live-11754248",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3sC0efuYuM1QVjL8VAEo2Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/f94489c00605d0976804021177128a13",
+      "publishedAt": "2025-06-13T18:35:21Z",
+      "content": "gofundme\r\n Andres Albaladejo.\r\nNEED TO KNOW\r\n<ul><li>A Florida man's muscle spasms seemed harmless at first, but eventually progressed and led to a devastating diagnosis\r\n</li><li>Andres Albaladejo w… [+3782 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Earth.com" },
+      "author": null,
+      "title": "Simple blood test detects cancer up to 3 years before symptoms appear - Earth.com",
+      "description": "Discover the innovation behind the cancer test that identifies tumor markers in blood samples long before symptoms emerge.",
+      "url": "https://www.earth.com/news/simple-blood-test-detects-cancer-before-symptoms-appear/",
+      "urlToImage": "https://cff2.earth.com/uploads/2025/06/11041414/Simple-blood-test-spots-cancer-years-before-we-feel-sick.jpg",
+      "publishedAt": "2025-06-13T17:59:46Z",
+      "content": "Some cancers slip under the radar and remain undetected for years – silently progressing without noticeable symptoms.\r\nResearchers have been studying new ways to reveal these hidden problems in the b… [+4996 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Verywellhealth.com" },
+      "author": "https://www.facebook.com/verywell",
+      "title": "How Much Sun Do You Really Need to Get Enough Vitamin D? - Verywell Health",
+      "description": "Brief sun exposure may help your body produce vitamin D, but experts still recommend getting vitamin D via diet or supplements to reduce your risk of skin cancer.",
+      "url": "https://www.verywellhealth.com/sun-exposure-and-vitamin-d-11752637",
+      "urlToImage": "https://www.verywellhealth.com/thmb/ctvh84XhbsQmQmrjOZKFXE4qP2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/VWH-GettyImages-1318637613-8da22eb16afc49919e6c3d145a9845dc.jpg",
+      "publishedAt": "2025-06-13T17:46:30Z",
+      "content": "Spending just a few minutes in the sun can help your body produce vitamin D, a hormone that supports bone health. However, sun exposure carries a risk of skin cancer, and experts recommend getting vi… [+3397 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PEOPLE" },
+      "author": "Cara Lynn Shultz",
+      "title": "Pharmacy Mixes Up 9-Year-Old’s ADHD Medicine, Gives Him Opioid More Powerful Than Morphine - AOL.com",
+      "description": "Sarah Paquin tells PEOPLE that her if her son had taken the medicine, \"it would have been devastating\"",
+      "url": "https://people.com/pharmacy-gives-9-year-old-opioids-instead-of-adhd-meds-11753383",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/CxbJxrmJUcaaESn6id8qZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_people_articles_471/93fe8e5b4eae3c71e5be1958979665a1",
+      "publishedAt": "2025-06-13T16:45:21Z",
+      "content": "Sarah Paquin\r\n Sarah Paquin with her son Declan\r\nNEED TO KNOW\r\n<ul><li>A 9-year-old boy nearly took a powerful opioid stronger than morphine after the local pharmacy gave them a prescription intended… [+3410 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PsyPost" },
+      "author": "Eric W. Dolan",
+      "title": "Flipping two atoms in LSD turned it into a powerful treatment for damaged brain circuits - PsyPost",
+      "description": "A new study introduces JRT, a modified version of LSD that promotes brain cell growth without triggering hallucinations. Researchers say this non-hallucinogenic compound could offer safer treatment options for schizophrenia and related brain disorders where p…",
+      "url": "https://www.psypost.org/flipping-two-atoms-in-lsd-turned-it-into-a-powerful-treatment-for-damaged-brain-circuits/",
+      "urlToImage": "https://www.psypost.org/wp-content/uploads/2024/03/neurotransmitter-crossing-a-synapse.jpg",
+      "publishedAt": "2025-06-13T16:07:30Z",
+      "content": "Scientists at the University of California, Davis have developed a new drug related to LSD that retains the psychedelics beneficial brain effects while minimizing the hallucinogenic experience. The c… [+7831 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Europa.eu" },
+      "author": null,
+      "title": "Epidemiological update: SARS-CoV-2 and NB.1.8.1 variant assessment - European Centre for Disease Prevention and Control",
+      "description": "Increases in infections due to SARS-CoV-2, associated with an increase in detections of the NB.1.8.1 variant, have been observed in some countries in Asia (including China, Hong Kong, Singapore) in recent weeks. ECDC and WHO have classified NB.1.8.1 as a vari…",
+      "url": "https://www.ecdc.europa.eu/en/news-events/epidemiological-update-sars-cov-2-and-nb181-variant-assessment",
+      "urlToImage": "https://www.ecdc.europa.eu/sites/default/files/styles/is_large/public/images/SARS.jpg?itok=mEqgGbVS",
+      "publishedAt": "2025-06-13T15:34:23Z",
+      "content": "Erik Alm, Sabrina Bacci, Eva Bons, Nick Bundle, Edoardo Colzani, Luisa Hallmaier-Wacker, Phyo Myint, Priyanka Nannapaneni, Rene Niehus, Kate Olsson, Ajibola Omokanye, Bastian Prasse, OlovSvartstrom.1… [+4942 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GQ Magazine" },
+      "author": "Tom Ward, David Taylor",
+      "title": "For the Best Fat-Burning Exercises, Slow and Sustainable Wins the Abs Race - GQ",
+      "description": "To reduce body fat, incorporate burpees, plank crunches, and ball twists into your workouts.",
+      "url": "https://www.gq.com/story/best-fat-burning-exercises-abs",
+      "urlToImage": "https://media.gq.com/photos/684b4862cb864a7fc9b0e4f3/16:9/w_1280,c_limit/abs%20copy.jpg",
+      "publishedAt": "2025-06-13T15:00:00Z",
+      "content": "A 20-minute jog will burn calories, not fat specifically, which will help you lose overall weight, MacPherson says. \"However that weight can come from fat and muscle. Its vital to also perform weight… [+2462 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Natural Compound in Rice and Coffee May Protect Against Heart Attacks - SciTechDaily",
+      "description": "Ferulic acid prevents artery spasms by working through two distinct mechanisms. Sudden narrowing of the coronary arteries, known as coronary artery spasms, can cause chest pain (angina), heart attacks, and other serious cardiovascular issues. A research team …",
+      "url": "https://scitechdaily.com/?p=479844",
+      "urlToImage": "https://scitechdaily.com/images/Human-Heart-Anatomy-1.jpg",
+      "publishedAt": "2025-06-13T14:59:33Z",
+      "content": "Researchers have found that ferulic acid, a plant-based compound, can effectively prevent coronary artery spasms by targeting calcium channels and muscle proteins. Credit: Stock\r\nFerulic acid prevent… [+2678 chars]"
+    }
+  ]
+}
