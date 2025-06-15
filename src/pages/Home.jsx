@@ -31,21 +31,18 @@ function Home() {
   const navigate = useNavigate();
 
   const fetchArticles = async (category) => {
-    setLoading(true);
-    try {
-      const response = await fetch(
-        `https://newsapi.org/v2/top-headlines?country=us&category=${category}&apiKey=${import.meta.env.VITE_NEWS_API_KEY}`
-      );
-      const data = await response.json();
-      console.log(data);
-      setArticles(data.articles || []);
-    } catch (error) {
-      console.error("Error fetching articles:", error);
-      setArticles([]);
-    } finally {
-      setLoading(false);
-    }
-  };
+  setLoading(true);
+  try {
+    const response = await fetch(`/news-data/${category}.json`);
+    const data = await response.json();
+    setArticles(data.articles || []);
+  } catch (error) {
+    console.error("Error loading static news data:", error);
+    setArticles([]);
+  } finally {
+    setLoading(false);
+  }
+};
 
   // Update saved count whenever component mounts or articles change
   useEffect(() => {
